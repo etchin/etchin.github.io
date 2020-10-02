@@ -92,6 +92,7 @@ div.content
 {
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
+    font-size: 20px;
     color: #8b8b8b;
 }
 .error
@@ -144,7 +145,7 @@ div.content
 }
 .intro
 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab', sans-serif;
     font-weight: 200;
     color: #777;
 }
@@ -188,7 +189,7 @@ h3.intro
 .menu-item
 {
     font-family: 'Lato', sans-serif;
-    font-size: 20px;
+    font-size: 40px;
     font-weight: 300;
 
     text-decoration: none;
