@@ -222,11 +222,11 @@ section.meta {
 .powered
 {
     font-family: 'Roboto', sans-serif;
-    font-size: 12px;
+    font-size: 10px;
     font-weight: 300;
 }
 .social {
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 .social,
